@@ -1,4 +1,4 @@
-# 📚 DocBuddy Pro — Your Intelligent PDF Companion 🧠✨
+# 📚 DocBuddy Pro — Q&A Over Multiple PDFs with Source Citations 🧠✨
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange?logo=gradio&logoColor=white)](https://gradio.app/)
